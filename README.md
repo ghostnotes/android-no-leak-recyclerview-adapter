@@ -1,1 +1,1 @@
-# android-no-leak-recyclerview-adapter
+# NoLeak RecyclerView.Adapter
